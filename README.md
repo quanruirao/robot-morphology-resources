@@ -10,7 +10,7 @@ This is a related study involving embodied intelligence based on modality.
 ...
 
 ## Paper
-- **LEARNING INVARIANT FEATURE SPACES TO TRANSFER SKILLS WITH REINFORCEMENT LEARNING**  
+- **Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning**  
   [[PDF]](https://arxiv.org/pdf/1703.02949) (ICLR 2017)
 
 - **Hardware Conditioned Policies for Multi-Robot Transfer Learning**  
