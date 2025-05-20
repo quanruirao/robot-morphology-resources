@@ -10,7 +10,7 @@ This is a related study involving embodied intelligence based on modality.
 ...
 
 ## Paper
-- **Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning**. [pdf](https://arxiv.org/pdf/1703.02949)
+- **Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning**. [[pdf](https://arxiv.org/pdf/1703.02949)]
 
 · Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine. *ICLR, 2017*.
 
