@@ -15,6 +15,7 @@ This is a related study involving embodied intelligence based on modality.
   · Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine. *ICLR, 2017* .  
 
 - **Hardware Conditioned Policies for Multi-Robot Transfer Learning**. [[pdf](https://arxiv.org/pdf/1811.09864)]  [[web](https://sites.google.com/view/robot-transfer-hcp)]  [[code](https://github.com/taochenshh/hcp)]
+
   · ![Conference](https://img.shields.io/badge/Conference-NeurIPS-fuchsia).  
   · Tao Chen, Adithyavairavan Murali, Abhinav Gupta. *NeurIPS, 2018* .  
 
@@ -27,5 +28,5 @@ This is a related study involving embodied intelligence based on modality.
   · Yukiyasu Noguchi, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. *ArXiv, 2021*.  
 
 - **Fault-aware Robust Control via Adversarial Reinforcement Learning**. [[pdf](https://arxiv.org/pdf/2011.08728)]  
-  · ![Conference](https://img.shields.io/badge/Conference-IEEE%20Conference-blue). 
-  · Yang, Fan, Chao Yang, Di Guo, Huaping Liu, and Fuchun Sun. *CYBER, 2021*   
+  · ![Conference](https://img.shields.io/badge/Conference-IEEE%20Conference-blue)
+  · Yang, Fan, Chao Yang, Di Guo, Huaping Liu, and Fuchun Sun. *CYBER, 2021* .  
