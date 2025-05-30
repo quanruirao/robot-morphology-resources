@@ -28,4 +28,14 @@ This is a related study involving embodied intelligence based on modality.
 
 - **Fault-aware Robust Control via Adversarial Reinforcement Learning**. [[pdf](https://arxiv.org/pdf/2011.08728)]  
   [![Conference](https://img.shields.io/badge/Conference-CYBER-green)](https://ieeexplore.ieee.org/)  
-  · Yang, Fan, Chao Yang, Di Guo, Huaping Liu, and Fuchun Sun. *CYBER, 2021*  
+  · Yang, Fan, Chao Yang, Di Guo, Huaping Liu, and Fuchun Sun. *CYBER, 2021*
+
+
+
+
+
+
+
+
+
+**Note:** This resource library is continuously being improved. If you have any questions or suggestions for additions/deletions, please email us at quanruirao@163.com.  
