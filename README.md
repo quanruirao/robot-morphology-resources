@@ -26,9 +26,6 @@ This is a related study involving embodied intelligence based on modality.
   [![ArXiv](https://img.shields.io/badge/ArXiv-2112.00359-red)](https://arxiv.org/abs/2112.00359)  
   · Yukiyasu Noguchi, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. *ArXiv, 2021*  
 
-- **Fault-aware Robust Control via Adversarial Reinforcement Learning**. [[pdf](https://arxiv.org/pdf/2011.08728)]  
-  [![Conference](https://img.shields.io/badge/Conference-CYBER-green)](https://ieeexplore.ieee.org/)  
-  · Yang, Fan, Chao Yang, Di Guo, Huaping Liu, and Fuchun Sun. *CYBER, 2021*
 
 
 
