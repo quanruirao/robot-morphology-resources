@@ -26,7 +26,9 @@ This is a related study involving embodied intelligence based on modality.
   [![ArXiv](https://img.shields.io/badge/ArXiv-2112.00359-red)](https://arxiv.org/abs/2112.00359)  
   · Yukiyasu Noguchi, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. *ArXiv, 2021*  
 
-
+- **NerveNet: Learning Structured Policy with Graph Neural Networks**. [[pdf](https://openreview.net/pdf?id=S1sqHMZCb)] [[web](https://www.cs.toronto.edu/~tingwuwang/nervenet.html)] [[code](https://github.com/WilsonWangTHU/NerveNet)]  
+  [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)  
+  · Tingwu Wang, Renjie Liao, Jimmy Ba, Sanja Fidler. *ICLR, 2018*  
 
 
 
