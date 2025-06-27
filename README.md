@@ -30,7 +30,13 @@ This is a related study involving embodied intelligence based on modality.
   [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)  
   · Tingwu Wang, Renjie Liao, Jimmy Ba, Sanja Fidler. *ICLR, 2018*  
 
+- **Snowflake: Scaling GNNs to  high-dimensional  continuous  control  via  parameter freezing**. [[pdf](https://openreview.net/pdf?id=REjT_c1Eejk)] [[code](https://github.com/thecharlieblake/snowflake)]  
+  [![Conference](https://img.shields.io/badge/Conference-NeurIPS-green)](https://neurips.cc/)  
+  · Blake Charles, Kurin Vitaly, Igl Maximilian, Whiteson Shimon. *NeurIPS, 2021*
 
+ - **Neural graph evolution: Towards efficient automatic robot design**. [[pdf](https://arxiv.org/pdf/1906.05370)] [[web](https://www.cs.toronto.edu/~henryzhou/NGE_website/)] [[code](https://github.com/WilsonWangTHU/neural_graph_evolution)]  
+  [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
+  · Tingwu Wang, Yuhao Zhou, Sanja Fidler, Jimmy Ba. *ICLR, 2019* 
 
 
 
