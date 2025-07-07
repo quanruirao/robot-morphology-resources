@@ -43,6 +43,18 @@ This is a related study involving embodied intelligence based on modality.
   [![Journal](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Robotics-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)  
   · Julian Whitman, Matthew Travers, Howie Choset. *IEEE Transactions on Robotics, 2023* 
 
+ - **My body is a cage: the role of morphology in graph-based incompatible control**. [[pdf](https://openreview.net/pdf?id=N3zUDGN5lO)] [[code](https://github.com/yobibyte/amorpheus?tab=readme-ov-file)]  
+  [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
+  · Vitaly Kurin, Maximilian Igl, Tim Rocktäschel, Wendelin Boehmer, Shimon Whiteson. *ICLR, 2021* 
+
+ - **Structure-Aware Transformer Policy for Inhomogeneous Multi-Task Reinforcement Learning**. [[pdf](https://openreview.net/pdf?id=fy_XRVHqly)] [[code](https://github.com/sunghoonhong/SWAT)]  
+  [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
+  · Sunghoon Hong, Deunsol Yoon, Kee-Eung Kim. *ICLR, 2022*
+
+ - **Metamorph: Learning universal controllers with transformers**. [[pdf](https://openreview.net/pdf/7ef00fd81bdb696532e182f6073e6e6d9cb15e98.pdf)] [[code](https://github.com/agrimgupta92/metamorph)]  
+  [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
+  · Agrim Gupta, Linxi Fan, Surya Ganguli, Li Fei-Fei. *ICLR, 2022*
+
 
 
 **Note:** This resource library is continuously being improved. If you have any questions or suggestions for additions/deletions, please email us at quanruirao@163.com.  
