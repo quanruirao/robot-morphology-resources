@@ -36,6 +36,10 @@ This is a related study involving embodied intelligence based on modality.
 
  - **Neural graph evolution: Towards efficient automatic robot design**. [[pdf](https://arxiv.org/pdf/1906.05370)] [[web](https://www.cs.toronto.edu/~henryzhou/NGE_website/)] [[code](https://github.com/WilsonWangTHU/neural_graph_evolution)]  
   [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
+  · Tingwu Wang, Yuhao Zhou, Sanja Fidler, Jimmy Ba. *ICLR, 2019*
+
+ - **Learning Modular Robot Control Policies**. [[pdf](https://arxiv.org/pdf/2105.10049)] [[code](https://github.com/WilsonWangTHU/neural_graph_evolution)]
+  [![Journal](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Robotics-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)    
   · Tingwu Wang, Yuhao Zhou, Sanja Fidler, Jimmy Ba. *ICLR, 2019* 
 
  - **Learning Modular Robot Control Policies**. [[pdf](https://arxiv.org/pdf/2105.10049)] [[code](https://github.com/WilsonWangTHU/neural_graph_evolution)]  
