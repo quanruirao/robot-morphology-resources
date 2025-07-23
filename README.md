@@ -55,12 +55,12 @@ This is a related study involving embodied intelligence based on modality.
   [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
   · Agrim Gupta, Linxi Fan, Surya Ganguli, Li Fei-Fei. *ICLR, 2022*
 
- - **RoboMorph: Evolving Robot Morphology using Large Language Models**. [[pdf](https://openreview.net/pdf?id=pvqj1S08Rd)] 
-  [![Conference](https://img.shields.io/badge/Conference-RSS-green)](https://earl.robot-learning.net/)   
+ - **RoboMorph: Evolving Robot Morphology using Large Language Models**. [[pdf](https://openreview.net/pdf?id=pvqj1S08Rd)]  
+  [![Conference](https://img.shields.io/badge/Conference-RSS-green)](https://earl.robot-learning.net/)     
   · Kevin Qiu, Krzysztof Ciebiera, Paweł Fijałkowski, Marek Cygan, Łukasz Kuciński. *RSS 2024 Workshop EARL homepage*
 
  - **LASeR: Towards Diversified and Generalizable Robot Design with Large Language Models**. [[pdf](https://openreview.net/pdf?id=7mlvOHL6qJ)] [[code](https://github.com/WoodySJR/LASeR)]  
   [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
-  ·Junru Song, Yang Yang, Huan Xiao, Wei Peng, Wen Yao, Feifei Wang. *ICLR, 2025*
+  · Junru Song, Yang Yang, Huan Xiao, Wei Peng, Wen Yao, Feifei Wang. *ICLR, 2025*
 
 **Note:** This resource library is continuously being improved. If you have any questions or suggestions for additions/deletions, please email us at quanruirao@163.com.  
