@@ -58,11 +58,11 @@ This is a related study involving embodied intelligence based on modality.
   · Julian Whitman, Matthew Travers, Howie Choset. *IEEE Transactions on Robotics, 2023*
 
  - **RoboMorph: Evolving Robot Morphology using Large Language Models**. [[pdf](https://openreview.net/pdf?id=pvqj1S08Rd)]  
-  [![Conference](https://img.shields.io/badge/Conference-RSS-green)](https://earl.robot-learning.net/)     
-  · Kevin Qiu, Krzysztof Ciebiera, Paweł Fijałkowski, Marek Cygan, Łukasz Kuciński. *RSS 2024 Workshop EARL homepage*
+  [![Conference](https://img.shields.io/badge/Conference-RSS-Workshop-EARL-green)](https://earl.robot-learning.net/)     
+  · Kevin Qiu, Krzysztof Ciebiera, Paweł Fijałkowski, Marek Cygan, Łukasz Kuciński. *RSS 2024 Workshop EARL*
 
 - **CUDA-Accelerated Soft Robot Neural Evolution with Large Language Model Supervision**. [[pdf](https://arxiv.org/pdf/2405.00698)]  
-  [![ArXiv](https://img.shields.io/badge/ArXiv-2112.00359-red)](https://arxiv.org/abs/2112.00359)  
+  [![ArXiv](https://img.shields.io/badge/ArXiv-2405.00698-red)](https://arxiv.org/pdf/2405.00698)  
   · Lechen Zhang. *ArXiv, 2024*  
 
  - **LASeR: Towards Diversified and Generalizable Robot Design with Large Language Models**. [[pdf](https://openreview.net/pdf?id=7mlvOHL6qJ)] [[code](https://github.com/WoodySJR/LASeR)]  
