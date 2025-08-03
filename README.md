@@ -57,6 +57,10 @@ This is a related study involving embodied intelligence based on modality.
   [![Journal](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Robotics-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)  
   · Julian Whitman, Matthew Travers, Howie Choset. *IEEE Transactions on Robotics, 2023*
 
+ - **DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models**. [[pdf](https://arxiv.org/pdf/2311.17053)] [[web](https://diffusebot.github.io/)]   
+   [![Conference](https://img.shields.io/badge/Conference-NeurIPS-green)](https://neurips.cc/)    
+  · Tsun-Hsuan Wang, Juntian Zheng, Pingchuan Ma, Yilun Du, Byungchul Kim, Andrew Everett Spielberg, Joshua B. Tenenbaum, Chuang Gan, Daniela Rus. *NeurIPS, 2023*
+
  - **RoboMorph: Evolving Robot Morphology using Large Language Models**. [[pdf](https://openreview.net/pdf?id=pvqj1S08Rd)]  
   [![Conference](https://img.shields.io/badge/Conference-RSS-green)](https://earl.robot-learning.net/)     
   · Kevin Qiu, Krzysztof Ciebiera, Paweł Fijałkowski, Marek Cygan, Łukasz Kuciński. *RSS 2024 Workshop EARL*
