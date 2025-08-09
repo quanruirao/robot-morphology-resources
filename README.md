@@ -73,4 +73,8 @@ This is a related study involving embodied intelligence based on modality.
   [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
   · Junru Song, Yang Yang, Huan Xiao, Wei Peng, Wen Yao, Feifei Wang. *ICLR, 2025*
 
+ - **Generative-AI-Driven Jumping Robot Design Using Diffusion Models**. [[pdf](https://bc-kim.github.io/assets/Publications/ICRA__Generative_AI_Driven_Jumping_Robot_Design_Using_Diffusion_Models.pdf)] 
+  [![Conference](https://img.shields.io/badge/Conference-ICRA-green)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)   
+  · Byungchul Kim, Tsun-Hsuan Wang, Daniela Rus. *ICRA, 2025*
+
 **Note:** This resource library is continuously being improved. If you have any questions or suggestions for additions/deletions, please email us at quanruirao@163.com.  
