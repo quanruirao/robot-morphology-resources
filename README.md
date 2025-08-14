@@ -61,6 +61,10 @@ This is a related study involving embodied intelligence based on modality.
    [![Conference](https://img.shields.io/badge/Conference-NeurIPS-green)](https://neurips.cc/)    
   · Tsun-Hsuan Wang, Juntian Zheng, Pingchuan Ma, Yilun Du, Byungchul Kim, Andrew Everett Spielberg, Joshua B. Tenenbaum, Chuang Gan, Daniela Rus. *NeurIPS, 2023*
 
+ - **Dynamics-Guided Diffusion Model for Sensor-less Robot Manipulator Design**. [[pdf](https://arxiv.org/pdf/2402.15038)] [[web](https://dgdm-robot.github.io/)] [[code](https://github.com/real-stanford/dgdm)]  
+  [![Conference](https://img.shields.io/badge/Conference-CoRL-green)](https://www.corl.org/)   
+  · Xiaomeng Xu, Huy Ha, Shuran Song. *CoRL, 2024* 
+
  - **RoboMorph: Evolving Robot Morphology using Large Language Models**. [[pdf](https://openreview.net/pdf?id=pvqj1S08Rd)]  
   [![Conference](https://img.shields.io/badge/Conference-RSS-green)](https://earl.robot-learning.net/)     
   · Kevin Qiu, Krzysztof Ciebiera, Paweł Fijałkowski, Marek Cygan, Łukasz Kuciński. *RSS 2024 Workshop EARL*
@@ -76,5 +80,13 @@ This is a related study involving embodied intelligence based on modality.
  - **Generative-AI-Driven Jumping Robot Design Using Diffusion Models**. [[pdf](https://bc-kim.github.io/assets/Publications/ICRA__Generative_AI_Driven_Jumping_Robot_Design_Using_Diffusion_Models.pdf)]  
   [![Conference](https://img.shields.io/badge/Conference-ICRA-green)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)    
   · Byungchul Kim, Tsun-Hsuan Wang, Daniela Rus. *ICRA, 2025*
+
+ - **BodyGen: Advancing Towards Efficient Embodiment Co-Design**. [[pdf](https://openreview.net/pdf?id=cTR17xl89h)] [[web](https://genesisorigin.github.io/)] [[code](https://github.com/Josh00-Lu/BodyGen)]  
+  [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
+  · Haofei Lu, Zhe Wu, Junliang Xing, Jianshu Li, Ruoyu Li, Zhe Li, Yuanchun Shi. *ICLR, 2025*
+
+ - **Morphology Evolution for Embodied Robot Design With a Classifier-Guided Diffusion Model**. [[pdf](https://ieeexplore.ieee.org/document/11003187J)]   
+  [![Conference](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Evolutionary_Computation-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)    
+  · Shulei Liu, Junchi Yan, Handing Wang, Yaochu Jin. *IEEE Transactions on Evolutionary Computation, 2025*
 
 **Note:** This resource library is continuously being improved. If you have any questions or suggestions for additions/deletions, please email us at quanruirao@163.com.  
