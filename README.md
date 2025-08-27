@@ -9,6 +9,7 @@ This is a related study involving embodied intelligence based on modality.
 ## Survey  
 ...  
 
+
 ## Paper  
 - **Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning**. [[pdf](https://arxiv.org/pdf/1703.02949)]  
   [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)  
@@ -43,7 +44,11 @@ This is a related study involving embodied intelligence based on modality.
 
 - **Tool as Embodiment for Recursive Manipulation**. [[pdf](https://arxiv.org/pdf/2112.00359)] [[web](https://sites.google.com/view/recursivemanipulation)] [[code](https://anonymous.4open.science/r/tae-412B/README.md)]  
   [![ArXiv](https://img.shields.io/badge/ArXiv-2112.00359-red)](https://arxiv.org/abs/2112.00359)  
-  · Yukiyasu Noguchi, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. *ArXiv, 2021*  
+  · Yukiyasu Noguchi, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. *ArXiv, 2021*
+
+ - **Embodied intelligence via learning and evolution**. [[pdf](https://www.nature.com/articles/s41467-021-25874-z.pdf)] [[code](https://github.com/agrimgupta92/derl)]   
+  [![Journal](https://img.shields.io/badge/Journal-Embodied_intelligence_via_learning_and_evolution-blue)](https://www.nature.com/ncomms/)      
+  · Agrim Gupta, Silvio Savarese, Surya Ganguli, Li Fei-Fei. * nature communications, 2021*
 
  - **Structure-Aware Transformer Policy for Inhomogeneous Multi-Task Reinforcement Learning**. [[pdf](https://openreview.net/pdf?id=fy_XRVHqly)] [[code](https://github.com/sunghoonhong/SWAT)]  
   [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
@@ -86,7 +91,11 @@ This is a related study involving embodied intelligence based on modality.
   · Haofei Lu, Zhe Wu, Junliang Xing, Jianshu Li, Ruoyu Li, Zhe Li, Yuanchun Shi. *ICLR, 2025*
 
  - **Morphology Evolution for Embodied Robot Design With a Classifier-Guided Diffusion Model**. [[pdf](https://ieeexplore.ieee.org/document/11003187J)]   
-  [![Conference](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Evolutionary_Computation-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)    
+  [![Journal](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Evolutionary_Computation-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)    
   · Shulei Liu, Junchi Yan, Handing Wang, Yaochu Jin. *IEEE Transactions on Evolutionary Computation, 2025*
+
+ - **GCNT: Graph-Based Transformer Policies for Morphology-Agnostic Reinforcement Learning**. [[pdf](https://arxiv.org/abs/2505.15211)]   
+  [![Conference](https://img.shields.io/badge/Conference-IJCAI-green)](https://2025.ijcai.org/)    
+  · Yingbo Luo, Meibao Yao, Xueming Xiao. *IJCAI, 2025*
 
 **Note:** This resource library is continuously being improved. If you have any questions or suggestions for additions/deletions, please email us at quanruirao@163.com.  
