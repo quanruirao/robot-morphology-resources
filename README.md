@@ -47,8 +47,8 @@ This is a related study involving embodied intelligence based on modality.
   · Yukiyasu Noguchi, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. *ArXiv, 2021*
 
  - **Embodied intelligence via learning and evolution**. [[pdf](https://www.nature.com/articles/s41467-021-25874-z.pdf)] [[code](https://github.com/agrimgupta92/derl)]   
-  [![Journal](https://img.shields.io/badge/Journal-Embodied_intelligence_via_learning_and_evolution-blue)](https://www.nature.com/ncomms/)      
-  · Agrim Gupta, Silvio Savarese, Surya Ganguli, Li Fei-Fei. * nature communications, 2021*
+  [![Journal](https://img.shields.io/badge/Journal-Nature_Communications-blue)](https://www.nature.com/ncomms/)      
+  · Agrim Gupta, Silvio Savarese, Surya Ganguli, Li Fei-Fei. *Nature Communications, 2021*
 
  - **Structure-Aware Transformer Policy for Inhomogeneous Multi-Task Reinforcement Learning**. [[pdf](https://openreview.net/pdf?id=fy_XRVHqly)] [[code](https://github.com/sunghoonhong/SWAT)]  
   [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
