@@ -10,7 +10,7 @@ This is a related study involving embodied intelligence based on modality.
   - [Survey](#survey-1)  
   - [Paper](#paper-1)  
 
-# Universal Controller for Robots with Different Morphologies
+## Universal Controller for Robots with Different Morphologies
 
 
 
