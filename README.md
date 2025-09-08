@@ -2,17 +2,23 @@
 
 This is a related study involving embodied intelligence based on modality.  
 
-## Universal Controller for Robots with Different Morphologies
-
 ## Table of Contents  
-- [Survey](#survey)  
-- [Paper](#paper)  
+- [Universal Controller for Robots with Different Morphologies](#universal-controller-for-robots-with-different-morphologies)  
+  - [Survey](#survey)  
+  - [Paper](#paper)  
+- [Autonomous Design of Robot Morphology](#autonomous-design-of-robot-morphology)  
+  - [Survey](#survey-1)  
+  - [Paper](#paper-1)  
 
-## Survey  
+# Universal Controller for Robots with Different Morphologies
+
+
+
+### Survey  
 ...  
 
 
-## Paper  
+### Paper  
 - **Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning**. [[pdf](https://arxiv.org/pdf/1703.02949)]  
   [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)  
   · Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine. *ICLR, 2017*  
@@ -71,15 +77,13 @@ This is a related study involving embodied intelligence based on modality.
 
 ## Autonomous Design of Robot Morphology
 
-## Table of Contents  
-- [Survey](#survey)  
-- [Paper](#paper)  
 
-## Survey  
+
+### Survey  
 ...  
 
 
-## Paper  
+### Paper  
 
 
  - **Neural graph evolution: Towards efficient automatic robot design**. [[pdf](https://arxiv.org/pdf/1906.05370)] [[web](https://www.cs.toronto.edu/~henryzhou/NGE_website/)] [[code](https://github.com/WilsonWangTHU/neural_graph_evolution)]  
