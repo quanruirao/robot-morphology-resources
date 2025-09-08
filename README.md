@@ -2,6 +2,8 @@
 
 This is a related study involving embodied intelligence based on modality.  
 
+## Universal Controller for Robots with Different Morphologies
+
 ## Table of Contents  
 - [Survey](#survey)  
 - [Paper](#paper)  
@@ -26,10 +28,6 @@ This is a related study involving embodied intelligence based on modality.
   · Tingwu Wang, Renjie Liao, Jimmy Ba, Sanja Fidler. *ICLR, 2018*  
 
 
- - **Neural graph evolution: Towards efficient automatic robot design**. [[pdf](https://arxiv.org/pdf/1906.05370)] [[web](https://www.cs.toronto.edu/~henryzhou/NGE_website/)] [[code](https://github.com/WilsonWangTHU/neural_graph_evolution)]  
-  [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
-  · Tingwu Wang, Yuhao Zhou, Sanja Fidler, Jimmy Ba. *ICLR, 2019*
-
 - **Hierarchically Decoupled Imitation for Morphological Transfer**. [[pdf](https://proceedings.mlr.press/v119/hejna20a/hejna20a.pdf)] [[web](https://sites.google.com/berkeley.edu/morphology-transfer)] [[code](https://github.com/jhejna/hierarchical_morphology_transfer)]  
   [![Conference](https://img.shields.io/badge/Conference-ICML-green)](https://icml.cc/)  
   · Hejna, Donald, Lerrel Pinto, Pieter Abbeel. *ICML, 2020*  
@@ -46,9 +44,6 @@ This is a related study involving embodied intelligence based on modality.
   [![ArXiv](https://img.shields.io/badge/ArXiv-2112.00359-red)](https://arxiv.org/abs/2112.00359)  
   · Yukiyasu Noguchi, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. *ArXiv, 2021*
 
- - **Embodied intelligence via learning and evolution**. [[pdf](https://www.nature.com/articles/s41467-021-25874-z.pdf)] [[code](https://github.com/agrimgupta92/derl)]   
-  [![Journal](https://img.shields.io/badge/Journal-Nature_Communications-blue)](https://www.nature.com/ncomms/)      
-  · Agrim Gupta, Silvio Savarese, Surya Ganguli, Li Fei-Fei. *Nature Communications, 2021*
 
  - **Structure-Aware Transformer Policy for Inhomogeneous Multi-Task Reinforcement Learning**. [[pdf](https://openreview.net/pdf?id=fy_XRVHqly)] [[code](https://github.com/sunghoonhong/SWAT)]  
   [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
@@ -61,6 +56,41 @@ This is a related study involving embodied intelligence based on modality.
  - **Learning Modular Robot Control Policies**. [[pdf](https://arxiv.org/pdf/2105.10049)] [[code](https://github.com/WilsonWangTHU/neural_graph_evolution)]  
   [![Journal](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Robotics-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)  
   · Julian Whitman, Matthew Travers, Howie Choset. *IEEE Transactions on Robotics, 2023*
+
+ - **GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization**. [[pdf](https://arxiv.org/pdf/2407.15002)] [[web](https://get-zero-paper.github.io/)] [[code](https://github.com/real-stanford/get_zero)]    
+  [![Conference](https://img.shields.io/badge/Conference-ICRA-green)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)    
+  · Austin Patel  Shuran Song. *ICRA, 2025* 
+
+ - **Morphology Evolution for Embodied Robot Design With a Classifier-Guided Diffusion Model**. [[pdf](https://ieeexplore.ieee.org/document/11003187J)]   
+  [![Journal](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Evolutionary_Computation-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)    
+  · Shulei Liu, Junchi Yan, Handing Wang, Yaochu Jin. *IEEE Transactions on Evolutionary Computation, 2025*
+
+ - **GCNT: Graph-Based Transformer Policies for Morphology-Agnostic Reinforcement Learning**. [[pdf](https://arxiv.org/abs/2505.15211)]   
+  [![Conference](https://img.shields.io/badge/Conference-IJCAI-green)](https://2025.ijcai.org/)    
+  · Yingbo Luo, Meibao Yao, Xueming Xiao. *IJCAI, 2025*
+
+## Autonomous Design of Robot Morphology
+
+## Table of Contents  
+- [Survey](#survey)  
+- [Paper](#paper)  
+
+## Survey  
+...  
+
+
+## Paper  
+
+
+ - **Neural graph evolution: Towards efficient automatic robot design**. [[pdf](https://arxiv.org/pdf/1906.05370)] [[web](https://www.cs.toronto.edu/~henryzhou/NGE_website/)] [[code](https://github.com/WilsonWangTHU/neural_graph_evolution)]  
+  [![Conference](https://img.shields.io/badge/Conference-ICLR-green)](https://iclr.cc/)   
+  · Tingwu Wang, Yuhao Zhou, Sanja Fidler, Jimmy Ba. *ICLR, 2019*
+
+
+ - **Embodied intelligence via learning and evolution**. [[pdf](https://www.nature.com/articles/s41467-021-25874-z.pdf)] [[code](https://github.com/agrimgupta92/derl)]   
+  [![Journal](https://img.shields.io/badge/Journal-Nature_Communications-blue)](https://www.nature.com/ncomms/)      
+  · Agrim Gupta, Silvio Savarese, Surya Ganguli, Li Fei-Fei. *Nature Communications, 2021*
+
 
  - **DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models**. [[pdf](https://arxiv.org/pdf/2311.17053)] [[web](https://diffusebot.github.io/)]   
    [![Conference](https://img.shields.io/badge/Conference-NeurIPS-green)](https://neurips.cc/)    
@@ -94,8 +124,7 @@ This is a related study involving embodied intelligence based on modality.
   [![Journal](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Evolutionary_Computation-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)    
   · Shulei Liu, Junchi Yan, Handing Wang, Yaochu Jin. *IEEE Transactions on Evolutionary Computation, 2025*
 
- - **GCNT: Graph-Based Transformer Policies for Morphology-Agnostic Reinforcement Learning**. [[pdf](https://arxiv.org/abs/2505.15211)]   
-  [![Conference](https://img.shields.io/badge/Conference-IJCAI-green)](https://2025.ijcai.org/)    
-  · Yingbo Luo, Meibao Yao, Xueming Xiao. *IJCAI, 2025*
+
+
 
 **Note:** This resource library is continuously being improved. If you have any questions or suggestions for additions/deletions, please email us at quanruirao@163.com.  
