@@ -3,14 +3,14 @@
 This is a related study involving embodied intelligence based on modality.  
 
 ## Table of Contents  
-- [Universal Controller for Robots with Different Morphologies](#universal-controller-for-robots-with-different-morphologies)  
+- [Universal Morphology Control](#Universal-Morphology-Control)  
   - [Survey](#survey)  
   - [Paper](#paper)  
-- [Autonomous Design of Robot Morphology](#autonomous-design-of-robot-morphology)  
+- [Embodiment Co-design ](#Embodiment-Co-design )  
   - [Survey](#survey-1)  
   - [Paper](#paper-1)  
 
-## Universal Controller for Robots with Different Morphologies
+## Universal Morphology Control
 
 
 
@@ -75,7 +75,7 @@ This is a related study involving embodied intelligence based on modality.
   [![Conference](https://img.shields.io/badge/Conference-IJCAI-green)](https://2025.ijcai.org/)    
   · Yingbo Luo, Meibao Yao, Xueming Xiao. *IJCAI, 2025*
 
-## Autonomous Design of Robot Morphology
+## Embodiment Co-design 
 
 
 
