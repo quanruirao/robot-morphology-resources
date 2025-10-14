@@ -61,7 +61,11 @@ This is a related study involving embodied intelligence based on modality.
 
  - **Learning Modular Robot Control Policies**. [[pdf](https://arxiv.org/pdf/2105.10049)] [[code](https://github.com/WilsonWangTHU/neural_graph_evolution)]  
   [![Journal](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Robotics-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)  
-  · Julian Whitman, Matthew Travers, Howie Choset. *IEEE Transactions on Robotics, 2023*
+  · Julian Whitman, Matthew Travers, Howie Choset. *IEEE Transactions on Robotics, 2023* 
+
+- **Universal Morphology Control via Contextual Modulation**. [[pdf](https://arxiv.org/abs/2302.11070)] [[code](https://github.com/MasterXiong/ModuMorph)]  
+  [![Conference](https://img.shields.io/badge/Conference-ICML-green)](https://icml.cc/)  
+  · Zheng Xiong, Jacob Beck, Shimon Whiteson. *ICML, 2023*  
 
  - **MAT: Morphological Adaptive Transformer for Universal Morphology Policy Learning**. [[pdf](https://ieeexplore.ieee.org/abstract/document/10485641)]   
   [![Journal](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Cognitive_and_Developmental_Systems-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)  
@@ -78,6 +82,10 @@ This is a related study involving embodied intelligence based on modality.
  - **GCNT: Graph-Based Transformer Policies for Morphology-Agnostic Reinforcement Learning**. [[pdf](https://arxiv.org/abs/2505.15211)]   
   [![Conference](https://img.shields.io/badge/Conference-IJCAI-green)](https://2025.ijcai.org/)    
   · Yingbo Luo, Meibao Yao, Xueming Xiao. *IJCAI, 2025*
+
+ - **Modular Recurrence in Contextual MDPs for Universal Morphology Control**. [[pdf](https://arxiv.org/pdf/2506.08630)]   
+  [![ArXiv](https://img.shields.io/badge/ArXiv-2506.08630-red)](https://arxiv.org/pdf/2506.08630)     
+  · Laurens Engwegen, Daan Brinks, Wendelin Böhmer. *ArXiv, 2025*
 
 ## Embodiment Co-design 
 
