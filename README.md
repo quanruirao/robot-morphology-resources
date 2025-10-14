@@ -64,7 +64,7 @@ This is a related study involving embodied intelligence based on modality.
   · Julian Whitman, Matthew Travers, Howie Choset. *IEEE Transactions on Robotics, 2023*
 
  - **MAT: Morphological Adaptive Transformer for Universal Morphology Policy Learning**. [[pdf](https://ieeexplore.ieee.org/abstract/document/10485641)]   
-  [![Journal](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Cognitive_and_Developmental_Systems)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)  
+  [![Journal](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Cognitive_and_Developmental_Systems-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)  
   · Boyu Li, Haoran Li, Yuanheng Zhu, Dongbin Zhao. *IEEE Transactions on Cognitive and Developmental Systems, 2024*
 
  - **GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization**. [[pdf](https://arxiv.org/pdf/2407.15002)] [[web](https://get-zero-paper.github.io/)] [[code](https://github.com/real-stanford/get_zero)]    
