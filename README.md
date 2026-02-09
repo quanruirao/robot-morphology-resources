@@ -71,6 +71,10 @@ This is a related study involving embodied intelligence based on modality.
   [![Journal](https://img.shields.io/badge/Journal-IEEE_Transactions_on_Cognitive_and_Developmental_Systems-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)  
   · Boyu Li, Haoran Li, Yuanheng Zhu, Dongbin Zhao. *IEEE Transactions on Cognitive and Developmental Systems, 2024*
 
+- **Distilling Morphology-Conditioned Hypernetworks for Efficient Universal Morphology Control**. [[pdf](https://arxiv.org/pdf/2402.06570)] [[code](https://github.com/MasterXiong/Universal-Morphology-Control)]  
+  [![Conference](https://img.shields.io/badge/Conference-ICML-green)](https://icml.cc/)  
+  · Zheng Xiong, Risto Vuorio, Jacob Beck, Matthieu Zimmer, Kun Shao, Shimon Whiteson. *ICML, 2024*  
+
  - **GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization**. [[pdf](https://arxiv.org/pdf/2407.15002)] [[web](https://get-zero-paper.github.io/)] [[code](https://github.com/real-stanford/get_zero)]    
   [![Conference](https://img.shields.io/badge/Conference-ICRA-green)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)    
   · Austin Patel  Shuran Song. *ICRA, 2025* 
@@ -86,6 +90,10 @@ This is a related study involving embodied intelligence based on modality.
  - **Modular Recurrence in Contextual MDPs for Universal Morphology Control**. [[pdf](https://arxiv.org/pdf/2506.08630)]   
   [![ArXiv](https://img.shields.io/badge/ArXiv-2506.08630-red)](https://arxiv.org/pdf/2506.08630)     
   · Laurens Engwegen, Daan Brinks, Wendelin Böhmer. *ArXiv, 2025*
+
+ - **Knowledge Diversion for Efficient Morphology Control and Policy Transfer**. [[pdf](https://www.arxiv.org/pdf/2512.09796)]   
+  [![ArXiv](https://img.shields.io/badge/ArXiv-2512.09796-red)](https://arxiv.org/pdf/2512.09796)     
+  · Fu Feng, Ruixiao Shi, Yucheng Xie, Jianlu Shen, Jing Wang, Xin Geng. *ArXiv, 2026*
 
 ## Embodiment Co-design 
 
