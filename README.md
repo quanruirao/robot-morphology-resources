@@ -151,4 +151,4 @@ This is a related study involving embodied intelligence based on modality.
 
 
 
-**Note:** This resource library is continuously being improved. If you have any questions or suggestions for additions/deletions, please email us at quanruirao@163.com.  
+**Note:** Currently updated to 2025.12. This resource library is continuously being improved. If you have any questions or suggestions for additions/deletions, please email us at quanruirao@163.com.  
