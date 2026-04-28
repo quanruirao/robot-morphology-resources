@@ -4,7 +4,6 @@ A curated and **year-sorted** reading list for universal morphology control, cro
 
 > Last strict check: **2026-04-28**  
 > Sorting rule: entries are grouped by topic, then sorted by **publication/venue year**. For arXiv-only papers, the arXiv submission year is used.  
-> Author rule: for very long consortium papers, the list uses the official collaboration/team name or first authors plus “et al.”; the linked paper/project page contains the full author list.
 
 ---
 
