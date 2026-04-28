@@ -502,18 +502,4 @@ A curated and **year-sorted** reading list for universal morphology control, cro
 
 ---
 
-# 4. Verification Notes
-
-- **Corrected from previous draft:** `Knowledge Diversion for Efficient Morphology Control and Policy Transfer` is **ArXiv, 2025**, not 2026.
-- **Corrected from previous draft:** `RoboMIND 2.0` uses arXiv ID **2512.24653**, not `2601.02620`.
-- **Corrected ordering:** `π0` is a **2024 arXiv** paper and is placed before 2025 VLA entries.
-- **Corrected venue note:** `OpenVLA` is a **CoRL 2024** paper with PMLR proceedings published in 2025.
-- **Strict venue rule:** if a paper has only an arXiv/project page and no verified proceedings/journal page, it is labeled **ArXiv**, even if the project page suggests a future venue.
-- Prefer **paper + project page + code/data link** when available.
-- Mark workshop and arXiv-only papers explicitly; do not over-label them as full conference papers.
-- Keep these directions separate because their generalization mechanisms differ:
-  - universal morphology control over body graphs / modular designs;
-  - cross-embodiment data/model scaling;
-  - cross-robot behavior/action-space adaptation;
-  - joint morphology-control co-design.
 
